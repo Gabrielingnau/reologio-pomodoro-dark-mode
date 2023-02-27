@@ -1,4 +1,4 @@
-# SPA Universe
+# Relógio pomodoro blake mode
 
 A ideia é criar um relógio do tipo pomodoro com o modo black e white
 
