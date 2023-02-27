@@ -1,4 +1,4 @@
-# Relógio pomodoro blake mode
+# Relógio pomodoro black mode
 
 A ideia é criar um relógio do tipo pomodoro com o modo black e white
 
